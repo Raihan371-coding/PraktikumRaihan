@@ -6,6 +6,6 @@
     <title>produk</title>
 </head>
 <body>
-    <h1> Ini adalah halaman view produk </h1>
+    <h1> Ini adalah halaman view produk  </h1>
 </body>
 </html>
